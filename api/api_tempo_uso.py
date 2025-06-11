@@ -40,4 +40,13 @@ if __name__ == '__main__':
 
 
 
-# Execute com python api_tempo_uso.py
+# python api_tempo_uso.py
+
+'''
+http://localhost:5000/api/tempo-uso → retorna todos os registros
+
+http://localhost:5000/api/tempo-uso?aluno_id=A101 → filtra por aluno
+
+http://localhost:5000/api/tempo-uso?data=2025-06-05 → filtra por data
+
+'''

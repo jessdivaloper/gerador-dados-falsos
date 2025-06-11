@@ -1,0 +1,301 @@
+matricula,nome_aluno,id_curso,data_nascimento,endereco,status
+MAT0001,Maria Vitória Melo,5,1996-10-29,"Favela Cirino, Vila Nova Gameleira 3ª Seção, 00509825 Pacheco do Galho / RO",ativo
+MAT0002,Davi Miguel da Cruz,10,2002-10-15,"Viela da Conceição, 89, São Salvador, 04389163 Vargas / SC",ativo
+MAT0003,Ana Liz Novais,2,2004-02-12,"Quadra Pietra Vasconcelos, Juliana, 09923-305 Carvalho / MT",ativo
+MAT0004,Davi Miguel Ferreira,1,1986-11-29,"Condomínio Evelyn Nunes, 74, São João, 17017249 Macedo / TO",ativo
+MAT0005,Liz da Rosa,9,1987-04-16,"Condomínio Sousa, 692, Pousada Santo Antonio, 95255009 Pinto de Casa Grande / PE",inativo
+MAT0006,Lucca Sousa,9,2005-02-07,"Núcleo de Pacheco, 87, Nova Cachoeirinha, 80149254 Lima de Minas / AM",inativo
+MAT0007,Erick Gonçalves,8,2000-11-13,"Jardim Thiago da Costa, Vila Madre Gertrudes 3ª Seção, 95973-521 Camargo de Ferreira / DF",inativo
+MAT0008,Rodrigo Freitas,6,2007-02-15,"Recanto de Nascimento, Vila São Francisco, 74128789 Almeida do Norte / RO",ativo
+MAT0009,João Cassiano,7,2003-11-28,"Vale de Costela, 72, Nova America, 22080535 Pereira / RO",inativo
+MAT0010,Anthony Duarte,3,1996-12-18,"Colônia Marques, 50, Jardim São José, 16372731 Cavalcanti / MT",inativo
+MAT0011,Kevin Brito,5,2000-02-07,"Chácara Vargas, 584, Casa Branca, 19340567 Duarte / PR",inativo
+MAT0012,Dra. Alice Costa,10,1992-01-15,"Lago Câmara, Xodo-Marize, 76590-867 Santos de Rodrigues / RO",ativo
+MAT0013,Vitor Gabriel Pires,4,2001-10-06,"Trecho de Cirino, 99, Vila São Gabriel, 83309-357 Melo das Pedras / SP",inativo
+MAT0014,Helena Abreu,5,1989-06-16,"Lago Caldeira, 52, Nova Suíça, 76128557 Peixoto / PE",inativo
+MAT0015,Dr. Calebe Monteiro,3,2003-05-24,"Quadra Heloisa Farias, 38, Nossa Senhora Aparecida, 80948-868 Pires / BA",ativo
+MAT0016,Caroline Viana,10,2000-03-28,"Lago Moura, 85, Juliana, 15779-756 Sousa das Pedras / PE",ativo
+MAT0017,Dr. Henry Cassiano,4,2004-11-24,"Morro Lucca da Costa, 2, Conjunto Minas Caixa, 68524791 Camargo do Sul / SE",ativo
+MAT0018,Luan Peixoto,5,2005-03-01,"Viaduto Daniel Vieira, 94, Bairro Das Indústrias Ii, 67999-697 Novais / DF",inativo
+MAT0019,Sra. Liz Barbosa,7,2005-09-07,"Travessa de Jesus, 30, Mirtes, 33436-723 Jesus Grande / BA",inativo
+MAT0020,Fernando Rocha,1,1996-04-04,"Morro Ester Guerra, 246, Jardim Do Vale, 22861006 Pires do Sul / PI",ativo
+MAT0021,Sr. Antony Rocha,8,1989-06-05,"Sítio Ana Beatriz Gomes, Alto Barroca, 22545-729 Viana de Cunha / PB",ativo
+MAT0022,Srta. Ester Sampaio,3,1991-03-18,"Viela Silveira, 2, Unidas, 78395-049 Pastor / GO",inativo
+MAT0023,Bárbara Ribeiro,10,1998-07-28,"Área Hellena Ferreira, 79, Vila Antena Montanhês, 57121-966 Nogueira / BA",ativo
+MAT0024,Dr. Alexandre da Cunha,6,1985-12-23,"Rua Farias, 523, Brasil Industrial, 17462-090 Cassiano do Amparo / MG",inativo
+MAT0025,Renan Costela,8,1990-05-07,"Trevo de Aparecida, Unidas, 65977-619 Silveira / TO",inativo
+MAT0026,Nicolas Nogueira,3,2004-12-21,"Vereda de Cassiano, 59, Ipe, 77840826 Abreu / GO",ativo
+MAT0027,Thales Cavalcante,6,1990-02-25,"Área Oliveira, 3, Nazare, 36390839 Guerra da Serra / RS",inativo
+MAT0028,Dr. Pedro Henrique Porto,4,1986-06-06,"Conjunto de Melo, 13, Jaqueline, 36919-443 Azevedo da Serra / SE",ativo
+MAT0029,Srta. Sofia Sousa,10,1991-09-12,"Rodovia Maria Helena Pastor, 71, Cdi Jatoba, 23852260 da Paz do Norte / GO",inativo
+MAT0030,Davi Lucas Azevedo,10,1995-12-10,"Estação Maria Clara Vargas, 395, Mirante, 87873666 Cavalcanti do Norte / DF",ativo
+MAT0031,Dr. Augusto Sá,9,1996-06-09,"Feira Ana Sophia Jesus, 18, Belmonte, 48316-861 Pimenta / SP",inativo
+MAT0032,Beatriz Azevedo,2,1986-05-14,"Estrada de Viana, 97, Conjunto Paulo Vi, 06933-148 Câmara / AC",ativo
+MAT0033,Isabella Souza,10,1989-04-27,"Estrada da Mata, 27, Vila São Paulo, 90471-795 Fernandes de da Mota / RJ",inativo
+MAT0034,Luiz Henrique Ferreira,1,1998-03-28,"Quadra Campos, Cdi Jatoba, 29953-729 Marques / SP",inativo
+MAT0035,Renan Castro,4,2002-02-19,"Lagoa Rezende, 30, Alto Das Antenas, 34893-181 Oliveira do Amparo / DF",ativo
+MAT0036,Sabrina Fonseca,10,1985-10-31,"Residencial Oliveira, 8, Pedreira Padro Lopes, 33472-907 da Rosa / TO",inativo
+MAT0037,Luiz Henrique Montenegro,3,1990-09-29,"Aeroporto de Sá, 675, Vila Novo São Lucas, 45436-986 da Luz / PB",inativo
+MAT0038,Eloá Lopes,9,1999-01-29,"Sítio de Casa Grande, 68, Granja De Freitas, 38414-652 Barbosa / MS",ativo
+MAT0039,Bruno Sampaio,9,2003-10-07,"Esplanada Caldeira, 93, Santa Isabel, 13415637 Câmara / GO",inativo
+MAT0040,Yago Pereira,9,1991-09-01,"Colônia Lopes, 20, Vila Aeroporto Jaraguá, 88063-461 Dias / PI",inativo
+MAT0041,Henry Gabriel Rios,10,1985-12-07,"Rua Ana Vitória Ferreira, 9, Vila Madre Gertrudes 3ª Seção, 40690901 Mendonça Grande / SC",ativo
+MAT0042,Luiz Miguel Jesus,3,1997-06-08,"Estação Pereira, Piratininga, 25727869 Carvalho / AC",ativo
+MAT0043,Rodrigo Montenegro,7,2004-12-22,"Campo de Sá, 79, Vila Boa Vista, 89112683 Cavalcanti de das Neves / PA",inativo
+MAT0044,Lavínia da Cruz,3,1997-08-25,"Favela Casa Grande, 55, Céu Azul, 37711-077 Leão / PB",ativo
+MAT0045,Srta. Ana Carolina da Cruz,5,1991-09-06,"Rua Siqueira, 32, Pantanal, 84758-646 Garcia / PI",inativo
+MAT0046,Bárbara Souza,1,1994-03-10,"Recanto Nogueira, 6, Olhos D'água, 07975-469 Araújo / PA",ativo
+MAT0047,Leonardo Câmara,9,2001-08-30,"Área Luara Cunha, 958, Santa Tereza, 84426166 Costa do Amparo / BA",ativo
+MAT0048,Kevin Almeida,2,1991-09-08,"Aeroporto de Gonçalves, 74, Paquetá, 98843168 Pereira / CE",ativo
+MAT0049,Anthony Gabriel das Neves,4,1999-10-08,"Núcleo de Carvalho, 11, Vila Oeste, 81849758 Costa das Pedras / MG",ativo
+MAT0050,Renan Pinto,4,1989-05-12,"Estrada Carvalho, Bairro Das Indústrias Ii, 12358-988 Correia de Vieira / RR",inativo
+MAT0051,Ana Sophia da Paz,3,1987-03-16,"Viela de Jesus, 77, Europa, 25941411 Machado / PR",inativo
+MAT0052,Emanuelly da Mota,5,1999-02-24,"Chácara Dom da Mota, 48, Vila Rica, 59968685 Moura / AC",inativo
+MAT0053,Alice Moraes,9,1994-02-25,"Distrito Moura, 7, Centro, 87386551 Aparecida / TO",inativo
+MAT0054,Maitê Almeida,10,1989-12-20,"Travessa Brenda Ribeiro, 53, Novo Aarão Reis, 88470075 Rios de Goiás / RO",inativo
+MAT0055,Milena Teixeira,8,1993-02-17,"Condomínio Larissa Vieira, 51, Maravilha, 49786692 Duarte / PR",inativo
+MAT0056,Anthony Gabriel Pires,6,2004-03-08,"Largo Correia, 89, Bela Vitoria, 48702744 Sá de Campos / AC",ativo
+MAT0057,Bruno Montenegro,1,1993-09-08,"Travessa de Oliveira, 2, Tres Marias, 89687836 Vieira de Castro / AP",inativo
+MAT0058,Renan Souza,6,2005-06-03,"Travessa Pinto, 12, Vila Primeiro De Maio, 54383733 Ramos de Campos / PE",ativo
+MAT0059,Mirella da Rosa,2,1999-04-14,"Vale Elisa Cavalcanti, Vila Do Pombal, 56457-885 Fogaça de Ramos / DF",ativo
+MAT0060,Lucas Gabriel Araújo,1,1999-12-01,"Aeroporto de da Rocha, 725, Eymard, 39043778 Câmara do Norte / ES",inativo
+MAT0061,Ana Clara Cavalcante,10,2007-02-06,"Alameda Carvalho, 57, Leonina, 99381-000 Jesus de Mendes / PI",ativo
+MAT0062,Davi Lucca da Cruz,2,1990-06-11,"Lago Arthur Gabriel Monteiro, 3, Bom Jesus, 29392678 Cunha / ES",inativo
+MAT0063,Sr. Diogo Câmara,2,1994-12-16,"Lago de Leão, 80, Aeroporto, 54618-075 Peixoto Verde / GO",ativo
+MAT0064,Laís Sá,9,2000-12-17,"Condomínio de Farias, 6, Vila Ecológica, 65087931 da Luz / DF",ativo
+MAT0065,Ester Borges,2,2000-08-31,"Loteamento de Correia, 3, Guaratã, 75106-318 Campos / GO",ativo
+MAT0066,Sra. Maria Clara Moreira,10,1985-10-24,"Trevo de Rios, 47, Pantanal, 01202-609 Sá / PR",ativo
+MAT0067,Sra. Bianca Gomes,5,1997-04-26,"Largo de Gomes, 74, Barão Homem De Melo 2ª Seção, 92851146 Marques / RS",ativo
+MAT0068,Isis Nunes,5,1997-06-25,"Lago de Martins, 71, Madre Gertrudes, 85073196 Moura / TO",inativo
+MAT0069,Arthur Miguel Santos,10,2005-09-21,"Viaduto de Casa Grande, 10, Carlos Prates, 51657139 Carvalho da Prata / SE",inativo
+MAT0070,João Lucas Andrade,7,1999-02-03,"Trecho Antonella Abreu, 15, Vila Nova Cachoeirinha 1ª Seção, 57922-492 Porto de Jesus / ES",ativo
+MAT0071,Igor Silveira,10,1995-02-09,"Conjunto Aylla Rodrigues, 7, Conjunto Lagoa, 08786215 Mendonça de Minas / PI",ativo
+MAT0072,Vitor Hugo Câmara,6,1995-10-27,"Travessa Silveira, 15, Nova Vista, 66403-423 Gonçalves / SE",inativo
+MAT0073,Ryan Novais,6,2003-06-13,"Vereda de Mendes, 47, Mariquinhas, 67764432 da Cunha da Mata / AP",inativo
+MAT0074,Cecilia Almeida,2,1999-09-12,"Área de Camargo, Jardim América, 08656487 Martins do Amparo / SC",ativo
+MAT0075,Benjamim Cassiano,6,1988-04-14,"Rodovia Ana Carolina Pires, 10, Padre Eustáquio, 51853488 Sousa de Goiás / AC",ativo
+MAT0076,Srta. Beatriz Gomes,9,1985-05-26,"Lago de Nunes, 2, Bom Jesus, 13697-549 Rezende / DF",ativo
+MAT0077,Emanuelly Gonçalves,2,1996-12-13,"Fazenda da Rocha, 61, Jardim Leblon, 61467-933 Aragão / RR",inativo
+MAT0078,Matheus Freitas,1,2002-02-28,"Parque de Rocha, 9, São Sebastião, 34721562 Cunha do Amparo / PA",ativo
+MAT0079,Luiz Miguel Cavalcante,8,1995-05-22,"Largo de Cassiano, 2, João Paulo Ii, 30211221 Montenegro dos Dourados / SP",ativo
+MAT0080,Brayan Macedo,2,2003-09-27,"Jardim Maria Eduarda Porto, 90, Juliana, 84184-279 da Paz / SP",ativo
+MAT0081,Dra. Maya Viana,9,2000-08-26,"Vale Maria Flor Souza, Vila Ipiranga, 05827960 Albuquerque / RR",inativo
+MAT0082,Sr. Vinícius Souza,9,2002-03-02,"Morro Aragão, Gutierrez, 27387-105 Albuquerque / SP",inativo
+MAT0083,Danilo Vieira,3,1984-06-09,"Distrito de Cunha, 8, Nazare, 87033-593 Sampaio / PB",inativo
+MAT0084,Manuela Macedo,8,2007-01-07,"Viela Lavínia Fernandes, 69, Vila Piratininga, 58329-959 Gonçalves da Prata / GO",ativo
+MAT0085,Ayla Porto,2,1984-09-01,"Viela de Santos, 82, Ouro Minas, 72796-264 Siqueira do Galho / PI",ativo
+MAT0086,Beatriz Gomes,8,1989-03-16,"Pátio de da Cruz, Juliana, 86075-526 Duarte / SC",inativo
+MAT0087,Benício Sousa,5,1995-01-30,"Rua de Jesus, 79, Fernão Dias, 34476-575 Camargo do Amparo / PB",ativo
+MAT0088,Hadassa Sampaio,10,1989-09-08,"Via de Brito, 28, Camponesa 1ª Seção, 05356834 Costa / SC",ativo
+MAT0089,Sr. Paulo Moura,4,2001-01-31,"Esplanada Olivia Leão, 95, Minas Brasil, 98383047 Peixoto / PR",ativo
+MAT0090,Nicolas Pastor,10,1990-10-10,"Loteamento Câmara, 7, Belvedere, 42052235 Macedo da Mata / GO",inativo
+MAT0091,Sr. Ravi Nogueira,4,1990-01-06,"Aeroporto Antonella Moraes, Vila Aeroporto, 97463-722 Lima das Pedras / RR",ativo
+MAT0092,Maria Liz Cirino,1,1991-05-31,"Lago Ian da Rosa, São Gonçalo, 21213228 Leão Grande / AM",inativo
+MAT0093,João Gabriel Viana,1,1995-10-19,"Pátio Lucas Costela, 32, Vila Formosa, 21814-521 Souza de Montenegro / DF",inativo
+MAT0094,Melina Gomes,4,1998-03-17,"Lago Lucas Costa, Itatiaia, 40949385 Campos / MT",inativo
+MAT0095,Bárbara Pinto,9,1997-10-12,"Lago de Novaes, 98, Nova America, 08006300 Montenegro do Galho / SC",ativo
+MAT0096,Dr. Fernando Leão,6,1987-11-22,"Campo Albuquerque, 631, Funcionários, 34491-118 Guerra / TO",ativo
+MAT0097,Bianca Araújo,5,1998-01-13,"Lagoa Valentina Gomes, 3, Vila Fumec, 45925009 Rocha Verde / TO",inativo
+MAT0098,Maria Cecília Cunha,5,1988-09-10,"Jardim Vicente Duarte, 66, Vila Real 2ª Seção, 55821036 Guerra da Praia / AM",ativo
+MAT0099,Théo Alves,10,1986-05-21,"Fazenda da Mata, 58, Estrela Do Oriente, 54429-258 Nascimento / SC",ativo
+MAT0100,Yan Fernandes,8,1987-05-22,"Condomínio de das Neves, 75, Santa Amelia, 95662496 Albuquerque de Vargas / RO",ativo
+MAT0101,Marcela Barros,4,1988-02-14,"Núcleo Bruno Pacheco, 90, Nova Cintra, 35732695 Albuquerque / MT",inativo
+MAT0102,Augusto Freitas,9,1994-12-02,"Avenida Murilo Alves, 27, Carmo, 66234-519 das Neves da Serra / DF",ativo
+MAT0103,Joana Rodrigues,5,1995-09-24,"Esplanada Sara Sampaio, 786, Renascença, 73524203 da Paz / TO",inativo
+MAT0104,Júlia Almeida,2,2000-07-08,"Sítio da Conceição, 76, Xangri-Lá, 68316527 Vargas / MT",ativo
+MAT0105,Luiz Miguel Vasconcelos,10,1988-02-05,"Via Mariane Nunes, 49, Vila Aeroporto Jaraguá, 46471426 Castro / RJ",inativo
+MAT0106,Kaique da Costa,6,2005-07-02,"Passarela Emilly Cirino, 533, Santa Rita, 13514338 Farias dos Dourados / PB",ativo
+MAT0107,Lucas Gabriel Rocha,3,1987-07-06,"Sítio da Rosa, Vila Nossa Senhora Do Rosário, 96576626 Moraes de Barros / MS",ativo
+MAT0108,Sra. Luiza Peixoto,4,2003-02-10,"Sítio de Moraes, 12, Conjunto Taquaril, 27068-037 Duarte / MG",inativo
+MAT0109,Enrico Costa,1,1986-01-01,"Jardim Cecília Costela, 788, Vila Jardim Montanhes, 10828187 Porto / AL",ativo
+MAT0110,Henry Lopes,2,1999-06-06,"Jardim Abreu, 4, Jardim Do Vale, 68789735 Machado de Almeida / BA",inativo
+MAT0111,Ana Luiza Sousa,9,1986-06-09,"Via Vitor Gabriel Borges, 55, Santa Lúcia, 97443496 Sousa / SE",inativo
+MAT0112,Maya Fogaça,8,2001-04-25,"Núcleo Vieira, 14, Petropolis, 05143-275 da Cunha / AP",ativo
+MAT0113,Dom Santos,1,1991-06-01,"Jardim Porto, 35, Boa Vista, 09688-042 Vieira de Cirino / GO",ativo
+MAT0114,Giovanna Nascimento,5,2006-08-24,"Setor Fogaça, Coração De Jesus, 71579795 da Mota / SE",ativo
+MAT0115,Sra. Helena Lopes,7,1985-02-08,"Rodovia Almeida, 4, Betânia, 46048263 Freitas Grande / PA",inativo
+MAT0116,Sra. Sophia Oliveira,8,2003-12-08,"Morro Carvalho, 612, Camponesa 1ª Seção, 59200425 Sampaio / MT",ativo
+MAT0117,Gael Henrique Souza,7,1989-01-09,"Sítio de Câmara, 35, Luxemburgo, 92966-966 Aragão / ES",ativo
+MAT0118,Luiz Fernando Sá,6,1993-07-26,"Esplanada de Silveira, 60, Braúnas, 91688-619 Nogueira / GO",inativo
+MAT0119,Valentim da Cruz,2,1987-01-13,"Morro Nina Aragão, 83, Bacurau, 49484-995 da Rosa de Porto / MG",inativo
+MAT0120,Sra. Liz Leão,4,1992-05-09,"Lagoa Brito, 66, Vila Das Oliveiras, 86237670 Cavalcanti / RJ",ativo
+MAT0121,Agatha Dias,7,1999-02-07,"Jardim de Martins, 22, Carlos Prates, 52913-698 Marques / RR",ativo
+MAT0122,Ravi Correia,6,1986-09-04,"Área de Leão, 92, Pirineus, 02763-609 Montenegro de Santos / MS",inativo
+MAT0123,Henry Gabriel Marques,9,1988-05-29,"Favela de Rodrigues, 143, São Benedito, 83047-726 Aparecida / PI",ativo
+MAT0124,Ana Julia Marques,5,2003-07-05,"Loteamento Ferreira, 40, Vila Jardim Alvorada, 95106841 Mendes da Prata / AP",ativo
+MAT0125,José Pires,5,1998-03-30,"Parque de Gomes, 58, Salgado Filho, 07912272 da Costa / PB",inativo
+MAT0126,Eduarda da Paz,4,2003-12-21,"Rodovia Maria Helena Aparecida, 3, Vila Maloca, 11554-880 Santos de Goiás / SC",inativo
+MAT0127,Alexia Duarte,7,1991-01-22,"Estação Porto, Liberdade, 72849-984 Viana / DF",inativo
+MAT0128,Maria Vitória Guerra,8,1996-09-20,"Estação Barbosa, 466, Vila Santa Monica 1ª Seção, 25834-480 Borges da Prata / BA",ativo
+MAT0129,Yago Cavalcante,2,1996-06-24,"Residencial de Cassiano, 6, Lindéia, 23735128 Silva / CE",inativo
+MAT0130,Ana Laura Sales,6,1985-01-29,"Distrito Nogueira, 46, Vila Engenho Nogueira, 30749388 Almeida / MS",ativo
+MAT0131,Cecilia Ferreira,1,1988-02-25,"Quadra Heloisa Rodrigues, 91, Estrela, 71186814 da Costa / MS",inativo
+MAT0132,Matheus Pires,10,2006-07-29,"Pátio de Alves, 52, Granja De Freitas, 41813-337 da Rosa de da Mota / ES",ativo
+MAT0133,Cecília Garcia,3,2003-12-17,"Jardim Moraes, 2, Cruzeiro, 81844248 Moreira / RN",ativo
+MAT0134,Sra. Lívia Guerra,4,2005-12-18,"Conjunto de Souza, 8, Savassi, 65421-831 Teixeira do Oeste / SC",inativo
+MAT0135,Alícia Rios,4,2002-10-31,"Pátio Mendes, 406, Biquinhas, 53476072 Cunha do Sul / SC",inativo
+MAT0136,Yasmin Martins,2,1987-08-16,"Alameda Luiz Gustavo Fonseca, 757, Barroca, 49218514 Pimenta / SE",ativo
+MAT0137,Sr. Samuel Abreu,10,1996-10-26,"Lago Cardoso, 11, Camargos, 80165-941 Cassiano de Teixeira / AL",ativo
+MAT0138,Elisa da Cunha,6,1997-02-02,"Travessa Almeida, 14, Conjunto Paulo Vi, 93627336 Barbosa / AL",inativo
+MAT0139,Sr. Mateus Aparecida,4,1987-07-20,"Aeroporto de Machado, 95, Manacas, 88144-064 Pimenta das Pedras / PI",ativo
+MAT0140,Benjamim da Rocha,9,2007-03-18,"Lago Casa Grande, 97, Cidade Jardim, 20604592 Gomes dos Dourados / PE",inativo
+MAT0141,Ravy Correia,3,1989-04-02,"Rodovia de Araújo, 152, Santa Maria, 49369-285 Sampaio de Minas / MA",ativo
+MAT0142,Giovanna Aragão,9,2004-08-20,"Núcleo de Guerra, 756, Bandeirantes, 43163-431 Sales de Pimenta / MT",ativo
+MAT0143,Marcela Castro,8,2000-06-29,"Esplanada da Mota, 28, Canadá, 06571-171 Araújo / RS",ativo
+MAT0144,Amanda Pires,8,2001-07-27,"Pátio de Novaes, 85, Nova Gameleira, 72658-097 Guerra / RO",ativo
+MAT0145,Ian Moreira,8,2004-07-26,"Estrada Valentim Cavalcanti, 2, Vila Batik, 68287126 Dias / GO",ativo
+MAT0146,José Pedro da Cruz,9,2000-11-12,"Estação Costela, 695, Santa Terezinha, 48799-891 Leão / MS",ativo
+MAT0147,Júlia Novaes,9,1994-12-04,"Praia Viana, 6, Vila Antena Montanhês, 71928788 Gonçalves do Galho / AP",ativo
+MAT0148,Dr. Diego da Cruz,8,1996-11-04,"Distrito de Costa, 1, Lourdes, 93718-068 Camargo das Flores / AC",inativo
+MAT0149,Antônio Jesus,1,2003-10-20,"Morro Liz Melo, São Lucas, 55362-889 Borges de Sales / SC",inativo
+MAT0150,Luiz Miguel Teixeira,2,2004-06-10,"Colônia de Sampaio, Novo Santa Cecilia, 72940-310 Rocha / PR",ativo
+MAT0151,Bianca Sampaio,10,2005-04-02,"Praia de Moraes, 464, Alto Vera Cruz, 61670-283 Moreira da Mata / RS",ativo
+MAT0152,Ana Julia Pimenta,2,2004-11-24,"Travessa Stella Azevedo, 63, Prado, 95769-548 Rodrigues de Goiás / DF",inativo
+MAT0153,Davi Luiz da Mata,8,2001-07-02,"Trecho Benicio Novaes, 214, Vila Mangueiras, 77848-506 Pinto da Praia / SE",inativo
+MAT0154,Alana Casa Grande,5,2005-04-01,"Colônia Caldeira, 2, Vila São Rafael, 68799820 Andrade de Ferreira / SE",ativo
+MAT0155,Maria Luísa Fonseca,7,2002-12-17,"Aeroporto Vicente Moura, 44, Flavio De Oliveira, 93688094 Albuquerque / SE",inativo
+MAT0156,Felipe Gonçalves,5,1986-08-25,"Lago Bella Fogaça, 90, Serra Do Curral, 19975-587 Castro / PI",ativo
+MAT0157,Levi Fernandes,9,2002-12-04,"Praia de Caldeira, 49, Santo André, 95688338 da Rosa dos Dourados / PB",ativo
+MAT0158,Rafaela da Rocha,4,1995-01-22,"Lagoa Yasmin Ribeiro, 953, Santo Antônio, 75355851 Leão / RR",inativo
+MAT0159,Breno Mendonça,8,1995-10-16,"Recanto Câmara, 99, Maravilha, 83621-293 Viana do Galho / PR",inativo
+MAT0160,Mirella da Cruz,10,1996-07-12,"Via Moreira, 86, Flavio De Oliveira, 20319-090 Vasconcelos do Oeste / DF",ativo
+MAT0161,Théo Rios,2,1997-02-18,"Favela Lima, Vila Bandeirantes, 69393-002 Novaes de da Mata / RR",ativo
+MAT0162,Vitor Gabriel Garcia,7,1998-08-24,"Condomínio Souza, 40, Nova Cintra, 73491570 Mendes / DF",ativo
+MAT0163,Valentim Mendes,2,2000-11-04,"Favela Castro, Vila Mangueiras, 83080967 da Paz / RS",ativo
+MAT0164,Ian Souza,4,2004-08-04,"Loteamento Valentim Cavalcante, 5, Santo Agostinho, 65505-783 da Cruz das Flores / PA",ativo
+MAT0165,Lucas Gabriel Moura,5,1985-06-28,"Residencial de Teixeira, 50, Pirineus, 41312-997 Porto do Galho / TO",ativo
+MAT0166,Melina Peixoto,10,2003-10-14,"Via de Nascimento, 898, Vila São Francisco, 98859579 Guerra de Freitas / RJ",ativo
+MAT0167,Gael Henrique Macedo,7,1998-11-07,"Favela de Fernandes, Cidade Jardim, 84589-928 Sá das Flores / CE",ativo
+MAT0168,Daniela Moraes,2,2006-05-23,"Alameda de Dias, Floresta, 29324-011 Castro / PB",ativo
+MAT0169,Bento Moraes,7,1998-10-31,"Recanto Allana Barros, Olaria, 14654-395 Pimenta / SE",ativo
+MAT0170,Dr. Levi Nascimento,9,2002-12-05,"Morro de Azevedo, 281, São Sebastião, 61349-367 Ramos / TO",ativo
+MAT0171,Apollo Pinto,3,1995-11-21,"Avenida Stella Pinto, 46, Sion, 83260-508 Teixeira do Oeste / BA",inativo
+MAT0172,Otto Jesus,3,2002-01-08,"Conjunto Nogueira, 43, Xodo-Marize, 26657-273 Viana / DF",ativo
+MAT0173,Joana Rios,1,1986-12-12,"Recanto de Fonseca, 38, Vila Primeiro De Maio, 38349-491 Alves / RS",inativo
+MAT0174,Maria Fernanda Rocha,2,1985-03-17,"Pátio Rezende, Vila Madre Gertrudes 3ª Seção, 82453-066 Cavalcante / TO",ativo
+MAT0175,Jade Rodrigues,6,2001-01-12,"Fazenda Marques, 98, Sion, 46764358 da Mata de Montenegro / SP",inativo
+MAT0176,Arthur Miguel Gonçalves,8,2007-01-05,"Recanto Benicio Abreu, 46, Das Industrias I, 34847801 Castro da Serra / GO",ativo
+MAT0177,Luna Macedo,2,2005-01-06,"Trecho de Sampaio, 1, Califórnia, 99230547 Sales do Galho / GO",inativo
+MAT0178,Giovanna Nascimento,6,1985-02-03,"Esplanada de Rodrigues, 83, Baleia, 74775-044 da Rosa / MT",ativo
+MAT0179,Vinicius Pinto,8,2001-06-27,"Chácara Peixoto, 53, Pongelupe, 12860189 Borges do Campo / PI",inativo
+MAT0180,Vitor Garcia,2,1988-07-30,"Recanto Maria Casa Grande, 78, Flamengo, 73864438 Fogaça das Pedras / BA",ativo
+MAT0181,Julia Moraes,2,1986-01-09,"Fazenda da Luz, Vila Piratininga Venda Nova, 12252476 da Rocha / RO",inativo
+MAT0182,Bella Moraes,7,1998-09-18,"Aeroporto Léo Camargo, 70, São José, 22037-968 Santos Alegre / AP",inativo
+MAT0183,Maria Clara Vieira,2,1991-01-09,"Largo Juliana Cunha, 5, Vila Cemig, 23983-783 das Neves / ES",ativo
+MAT0184,José Borges,5,2004-12-26,"Esplanada Sampaio, 490, Fernão Dias, 69505-871 Cunha / PA",inativo
+MAT0185,Isabelly Aragão,1,1985-02-04,"Passarela Noah Sousa, 649, João Alfredo, 00815-667 da Conceição das Pedras / AP",ativo
+MAT0186,Mathias Leão,5,2005-04-06,"Colônia Camargo, 995, Cinquentenário, 91972339 Gomes / MT",inativo
+MAT0187,Maria Isis Mendes,9,1990-05-01,"Fazenda de Lima, 21, Nova Gameleira, 94255106 Oliveira da Mata / RJ",ativo
+MAT0188,Manuella Mendonça,4,1994-11-26,"Área Macedo, 3, Vila Olhos D'água, 50019698 Ferreira de Goiás / MA",ativo
+MAT0189,Ana Monteiro,9,1991-01-19,"Núcleo Stephany Casa Grande, 26, Bonfim, 79397338 Nunes / AC",ativo
+MAT0190,Anthony Gabriel Campos,1,1993-01-30,"Parque de Cardoso, 95, Conjunto Providencia, 10414-072 Nogueira / SE",ativo
+MAT0191,Yan Costela,9,1999-11-02,"Vila de Campos, Monsenhor Messias, 04519061 Souza das Pedras / DF",inativo
+MAT0192,Renan Gomes,5,1995-10-12,"Via Lívia Costa, 8, Cruzeiro, 46293944 Borges de Castro / AL",ativo
+MAT0193,Sr. Anthony Rocha,8,1999-05-04,"Avenida Eloah Pereira, 75, Caetano Furquim, 36120-255 da Cunha / RN",inativo
+MAT0194,Felipe Almeida,9,2006-05-17,"Largo João Pedro Silveira, 6, Conjunto Califórnia Ii, 38482036 Araújo / TO",inativo
+MAT0195,Igor Rios,5,1987-02-09,"Praça de Cassiano, 9, Conjunto Capitão Eduardo, 73208613 da Mota das Flores / RN",inativo
+MAT0196,José Farias,10,2003-10-20,"Via Siqueira, 597, Tupi A, 80833252 Freitas / MS",inativo
+MAT0197,Luiz Miguel Castro,2,1990-06-01,"Sítio Daniel Novaes, 86, Vila Santa Rosa, 25038787 Martins de Andrade / RR",ativo
+MAT0198,Ian Sales,3,2006-11-14,"Setor Enzo Gabriel das Neves, 64, Cinquentenário, 55376887 Caldeira / DF",ativo
+MAT0199,Benjamin Cavalcanti,9,1984-11-15,"Travessa Clara Freitas, 347, Vila Independencia 3ª Seção, 47571202 das Neves / AC",ativo
+MAT0200,Maria Luiza da Cunha,7,1984-10-03,"Residencial de Garcia, 67, Vila Formosa, 59725877 Siqueira / RR",ativo
+MAT0201,Nathan Pacheco,5,2002-09-14,"Pátio Sampaio, 56, Indaiá, 98383-505 Sampaio / DF",inativo
+MAT0202,Ian Almeida,1,1997-05-01,"Distrito da Mata, 748, Nossa Senhora Aparecida, 21705705 Aparecida / AM",inativo
+MAT0203,Mateus Leão,2,2007-01-29,"Área de Moreira, 3, Vila Piratininga Venda Nova, 85452879 Rodrigues / RS",ativo
+MAT0204,Maria Isis da Mata,8,1998-07-17,"Lago Rezende, Conjunto Minas Caixa, 42034-122 Pacheco / SP",inativo
+MAT0205,Emanuel Martins,4,1996-12-12,"Viaduto Souza, 1, Jaqueline, 99583749 Albuquerque do Campo / AP",inativo
+MAT0206,Sr. Luiz Henrique Cavalcante,8,1993-10-09,"Rua de Pinto, 38, Padre Eustáquio, 60828384 da Cunha / AP",ativo
+MAT0207,Paulo Farias,5,1996-01-31,"Estação Correia, 9, Braúnas, 47496961 Pinto do Sul / DF",ativo
+MAT0208,Raul Aparecida,6,2006-04-29,"Vereda de Rios, 93, Alto Das Antenas, 35969-960 da Rocha de Monteiro / MS",ativo
+MAT0209,Kamilly da Cruz,6,2001-09-06,"Praça Gonçalves, 1, Vila Madre Gertrudes 3ª Seção, 38557469 Peixoto do Norte / AP",inativo
+MAT0210,Matteo Carvalho,3,1988-07-18,"Colônia Sampaio, 45, Vila Real 2ª Seção, 69055568 Almeida / SP",ativo
+MAT0211,Nicolas Rodrigues,8,1996-07-19,"Aeroporto Isabelly da Paz, 2, São Sebastião, 95220-000 Vargas / MA",ativo
+MAT0212,Dra. Zoe Pastor,7,1997-03-26,"Vereda de Nascimento, 21, Independência, 35210-622 Cardoso da Serra / ES",inativo
+MAT0213,Eloah Melo,6,1987-05-13,"Rodovia Correia, 96, Vila Engenho Nogueira, 57439448 Andrade / RO",inativo
+MAT0214,Camila Costa,3,1988-09-09,"Praia de Albuquerque, 1, Vila Antena, 60156-952 Silva / RJ",inativo
+MAT0215,Lorena Correia,10,1994-02-06,"Morro de Teixeira, 82, Conjunto Jatoba, 29199-045 Sampaio de Macedo / RR",inativo
+MAT0216,Lívia Novaes,8,1993-06-19,"Favela Liam Fernandes, 5, Palmeiras, 34050-371 Fonseca / AP",ativo
+MAT0217,Carolina Pinto,3,2006-08-04,"Trecho Camargo, 68, Brasil Industrial, 81873-158 Aparecida Grande / MT",inativo
+MAT0218,Rael Macedo,5,1986-12-15,"Feira Guerra, 55, Vila Ouro Minas, 54958829 Borges de Barbosa / PR",ativo
+MAT0219,Dr. Cauê Pacheco,9,1993-01-03,"Trecho de Pacheco, 4, Jonas Veiga, 93206428 Campos de Moreira / MT",inativo
+MAT0220,Arthur Miguel Andrade,7,1985-03-08,"Ladeira de Oliveira, 331, Jardinópolis, 80871-143 das Neves / MA",inativo
+MAT0221,Eloah Vieira,10,2001-10-19,"Travessa João Lucas Porto, 565, Ouro Minas, 32986-309 Rocha das Flores / MS",ativo
+MAT0222,Liz Jesus,1,2003-05-02,"Núcleo Pereira, 91, Paulo Vi, 51933528 Vargas / PE",ativo
+MAT0223,Hadassa Cirino,10,1989-11-13,"Morro Marcela da Mota, Goiania, 57254044 Duarte de Minas / TO",ativo
+MAT0224,Dr. Bryan Pastor,7,1995-06-19,"Rodovia Maya Borges, 9, Santa Cecilia, 05616-614 Araújo das Pedras / RO",ativo
+MAT0225,Eduardo da Conceição,6,1985-09-12,"Trevo da Paz, 91, Conjunto São Francisco De Assis, 59829-700 Moreira / PB",ativo
+MAT0226,Marcos Vinicius da Conceição,9,1999-06-03,"Esplanada de Garcia, 69, São Paulo, 56371898 Farias das Flores / RR",inativo
+MAT0227,Léo Teixeira,4,2006-11-22,"Passarela de Correia, Pedreira Padro Lopes, 28571860 Cavalcante Paulista / MA",ativo
+MAT0228,Allana Ramos,3,2003-02-01,"Travessa de Souza, 85, Santa Rosa, 13179-539 Siqueira / RS",ativo
+MAT0229,Júlia Cavalcanti,8,1996-11-30,"Vila Gustavo Novaes, 977, Barro Preto, 56219603 Ribeiro / TO",inativo
+MAT0230,Bárbara Cavalcante,3,1998-11-08,"Colônia de Mendonça, 16, Carmo, 29241-409 Castro / DF",ativo
+MAT0231,Kevin Novaes,10,1999-08-01,"Estação João Vitor Sampaio, São Paulo, 40244048 Gonçalves / SP",ativo
+MAT0232,Eloá Nascimento,4,1985-05-09,"Esplanada Ferreira, 9, Belvedere, 40543-881 Aparecida / RR",ativo
+MAT0233,Emanuel Dias,7,1991-05-22,"Recanto Esther Freitas, Floresta, 36904395 Gonçalves / SE",ativo
+MAT0234,Antonella Santos,8,1988-01-06,"Feira de Casa Grande, 3, Cdi Jatoba, 14670131 Ribeiro / PB",inativo
+MAT0235,Noah Porto,5,1986-09-02,"Jardim Oliveira, 299, Corumbiara, 40441336 Gomes / SP",inativo
+MAT0236,Liz Viana,3,1994-03-18,"Recanto Nicolas Oliveira, 24, Coração De Jesus, 23855-831 Rodrigues Grande / SC",inativo
+MAT0237,Isaac Novaes,2,1991-12-07,"Morro de Brito, 214, Céu Azul, 61813352 Rezende / BA",inativo
+MAT0238,Pietra Ribeiro,10,1987-07-28,"Passarela Vieira, 45, Itapoa, 39961905 Abreu / TO",ativo
+MAT0239,Benjamin Fogaça,9,1989-11-30,"Campo de Rios, 72, Ernesto Nascimento, 50161-100 Barros / BA",inativo
+MAT0240,José Peixoto,9,2003-04-18,"Aeroporto de Cirino, 59, São Francisco Das Chagas, 71796030 da Cunha do Oeste / MS",ativo
+MAT0241,Asafe Albuquerque,3,1999-06-18,"Vale Macedo, 8, Ápia, 08870025 Rodrigues / GO",ativo
+MAT0242,Davi Lucca Santos,2,1992-08-17,"Esplanada Moreira, 65, Manacas, 80263661 Moura / PA",ativo
+MAT0243,Yago Sousa,8,2003-10-17,"Sítio Nogueira, 730, Marilandia, 37150-259 Costela / SP",inativo
+MAT0244,Felipe Correia,10,1986-02-01,"Estação de Araújo, 18, Vila Bandeirantes, 02546-182 Vargas / AM",inativo
+MAT0245,Dr. Augusto Rezende,7,2000-12-13,"Lagoa Milena das Neves, 59, Leticia, 10052281 Borges dos Dourados / RO",ativo
+MAT0246,Benício Porto,3,1998-04-06,"Praça de Dias, 533, Candelaria, 52102-066 Albuquerque / RO",ativo
+MAT0247,Eloá Costela,6,1999-12-27,"Praia de Ferreira, 1, Vila Jardim Alvorada, 95449-929 da Luz de Goiás / DF",inativo
+MAT0248,Alice Monteiro,2,1993-02-21,"Pátio Cassiano, 19, Pantanal, 74211294 Oliveira / CE",ativo
+MAT0249,Bella Moreira,9,1995-04-17,"Jardim Gonçalves, 76, Trevo, 98455-111 Aparecida / AM",inativo
+MAT0250,Larissa Porto,7,2002-08-01,"Quadra Campos, 3, Vila Madre Gertrudes 2ª Seção, 00715485 Martins do Oeste / TO",ativo
+MAT0251,Gustavo Aragão,10,1990-05-16,"Trevo Léo Sá, Apolonia, 50805524 Casa Grande / MA",ativo
+MAT0252,Rafaela Dias,5,1990-03-22,"Chácara Alves, Araguaia, 65115-079 Siqueira de Caldeira / MT",inativo
+MAT0253,Nathan Andrade,1,2006-10-11,"Via Sarah Duarte, 213, Boa União 1ª Seção, 42894-796 Montenegro Alegre / MT",inativo
+MAT0254,Olívia Pereira,1,2004-07-24,"Aeroporto Thomas Costela, Vila Mangueiras, 06243787 Barros do Amparo / PB",ativo
+MAT0255,Maria Vitória Aparecida,2,1989-06-25,"Recanto Campos, Vila De Sá, 49649-739 Teixeira de Goiás / RJ",inativo
+MAT0256,Emilly Pereira,6,2007-03-27,"Aeroporto Maria Luísa da Paz, 34, Jardim Alvorada, 74400-309 Pastor Verde / PB",ativo
+MAT0257,Cecilia Pires,2,2006-04-20,"Viaduto Cavalcanti, São Francisco, 00307-846 Siqueira / TO",ativo
+MAT0258,Pedro Santos,7,2007-01-01,"Favela de Cassiano, 69, Universo, 51675-620 Rocha das Pedras / PE",inativo
+MAT0259,Felipe Melo,2,2006-01-12,"Lagoa de Cardoso, 64, Vila São João Batista, 23934155 Alves das Flores / PI",inativo
+MAT0260,Antony Casa Grande,3,1999-01-25,"Praça de Siqueira, 27, Maravilha, 99485-769 Montenegro do Oeste / TO",ativo
+MAT0261,Letícia Freitas,3,1998-02-10,"Vereda de Martins, 54, Vila Ipiranga, 44588-095 Siqueira / AM",ativo
+MAT0262,Maria Cecília da Cunha,1,2004-09-09,"Chácara Rocha, 700, São João Batista, 34927-627 Viana do Campo / PA",inativo
+MAT0263,Giovanna Sousa,1,1990-05-14,"Travessa de da Mata, 699, Ouro Preto, 22312148 Souza / DF",ativo
+MAT0264,Francisco Macedo,9,1994-09-28,"Loteamento da Conceição, 63, Pedreira Padro Lopes, 51340094 da Rosa Alegre / SC",ativo
+MAT0265,Kamilly Pacheco,6,1992-01-09,"Viela de Silveira, 20, Laranjeiras, 10367305 da Conceição Verde / RJ",ativo
+MAT0266,Agatha Vieira,5,1993-04-23,"Estrada de Silva, 7, Vila Cemig, 18481698 da Cunha Alegre / MT",ativo
+MAT0267,Sophie Farias,1,1986-08-16,"Área Fonseca, Vila Pinho, 52445605 Ramos / ES",ativo
+MAT0268,Aylla Fernandes,2,1994-11-20,"Colônia Enrico Sampaio, Vila Mantiqueira, 52692-955 Andrade de das Neves / MT",inativo
+MAT0269,Maria Júlia Fonseca,2,2000-12-05,"Morro Garcia, Flavio De Oliveira, 98229387 Vargas do Campo / SC",ativo
+MAT0270,Joaquim Vieira,6,1987-01-29,"Vereda Isis Mendonça, 28, Capitão Eduardo, 06179-175 Aparecida / GO",ativo
+MAT0271,Dr. Igor da Cruz,9,1999-10-13,"Recanto Rodrigues, 66, Custodinha, 52254-838 da Cunha / RS",inativo
+MAT0272,Giovanna da Cunha,1,1990-07-25,"Vereda de Novaes, 63, Satelite, 62736-306 Rezende da Praia / RN",ativo
+MAT0273,Vinicius da Rocha,2,2003-10-27,"Campo Dias, 370, Granja Werneck, 90560439 Melo do Amparo / MS",inativo
+MAT0274,Maria Laura Castro,9,1986-11-16,"Rua de Fogaça, 90, Europa, 26590-427 da Luz / AM",ativo
+MAT0275,Ísis Caldeira,4,2003-12-31,"Distrito de Abreu, 2, Vila Oeste, 59206-980 Mendonça / SE",ativo
+MAT0276,Dom Souza,9,1998-02-09,"Largo de da Costa, 4, São Sebastião, 25827-724 Macedo da Prata / PI",inativo
+MAT0277,Caroline Silveira,5,1996-04-09,"Passarela Isabelly da Cunha, 15, Céu Azul, 73363086 Andrade do Norte / SP",inativo
+MAT0278,Benício Gonçalves,9,1988-01-11,"Setor Eduarda Santos, Marajó, 43547-897 Câmara / AM",inativo
+MAT0279,Srta. Mariane Cavalcanti,3,1998-11-13,"Distrito Maria Alice Guerra, Santa Margarida, 69462-608 Cavalcanti / AC",inativo
+MAT0280,Alice da Mata,3,1988-09-10,"Lagoa Ayla Cavalcanti, 76, Vila Mangueiras, 41668881 Barros do Sul / PR",ativo
+MAT0281,Sra. Ayla Viana,3,1993-04-24,"Feira de Silva, Universitário, 47442226 Cassiano do Sul / TO",inativo
+MAT0282,Carolina Monteiro,5,2004-08-31,"Praça Evelyn Cavalcante, 18, Aguas Claras, 90637-386 Sousa / MG",ativo
+MAT0283,Srta. Heloisa Almeida,10,2003-09-29,"Travessa Pedro Miguel Novaes, 91, Vila Copasa, 05382101 Rodrigues / PA",inativo
+MAT0284,Lucca Pacheco,7,1987-08-06,"Sítio Isaac Rezende, 65, Caiçara - Adelaide, 69599985 Vieira de Jesus / RN",inativo
+MAT0285,Joaquim Vargas,1,2001-01-31,"Viela Mariane Fogaça, 82, São João Batista, 09519724 da Paz / RN",inativo
+MAT0286,Sr. Bernardo Sousa,8,1994-09-30,"Rodovia Ramos, 16, Jardim América, 25413501 Ferreira de Goiás / SP",inativo
+MAT0287,Lucas Gabriel Costa,7,1986-04-29,"Campo Luiz Miguel Almeida, 750, Eymard, 56875827 Cavalcanti Grande / ES",ativo
+MAT0288,Pietra Pastor,4,1991-01-02,"Largo de Fonseca, Bairro Das Indústrias Ii, 62254304 Nunes / GO",inativo
+MAT0289,Mateus Sá,6,1986-09-21,"Sítio de Fogaça, Carlos Prates, 03256-107 Souza das Flores / MG",ativo
+MAT0290,Eduardo Novaes,9,1997-11-29,"Avenida Marques, 70, Jardim Do Vale, 07959-200 Cavalcante / RJ",inativo
+MAT0291,Eloá Fernandes,10,2004-05-10,"Estrada Anthony Gabriel Cavalcanti, 24, Vila Nova Cachoeirinha 3ª Seção, 29557054 Montenegro / PI",inativo
+MAT0292,Thomas Martins,8,2005-12-30,"Praia Luiz Felipe Alves, 32, Santa Margarida, 44496402 da Paz / AC",ativo
+MAT0293,Sr. Vinícius Farias,2,1991-03-02,"Rodovia Cirino, 8, Conjunto Providencia, 46790-596 Silva de Campos / MG",ativo
+MAT0294,Ana Julia Santos,1,1989-03-22,"Lagoa de Melo, 83, Nova Vista, 59963881 das Neves de Pimenta / BA",ativo
+MAT0295,André da Rocha,5,2001-05-04,"Loteamento Murilo Pastor, Flamengo, 84384-773 Gomes Grande / SP",inativo
+MAT0296,Emanuel Rocha,1,1984-11-04,"Rodovia de da Mata, 37, Venda Nova, 78418-055 Borges / RS",ativo
+MAT0297,Ana Júlia Novais,1,1991-07-06,"Viaduto Benjamin da Rosa, 49, Bandeirantes, 81770-013 Jesus / AC",inativo
+MAT0298,Esther Costela,6,1994-08-10,"Lagoa Aragão, 26, Vila Trinta E Um De Março, 24183172 Araújo Grande / AP",inativo
+MAT0299,Paulo Câmara,3,1985-06-24,"Vila de Andrade, Chácara Leonina, 11202-180 da Cunha das Pedras / ES",inativo
+MAT0300,Dr. Brayan Ramos,2,1989-04-22,"Aeroporto Araújo, 90, Acaba Mundo, 16371073 Melo / BA",ativo

@@ -1,0 +1,51 @@
+id_curso,nome_curso,nome_disciplina
+1,Engenharia de Computação,Algoritmos
+1,Engenharia de Computação,Estrutura de Dados
+1,Engenharia de Computação,Sistemas Operacionais
+1,Engenharia de Computação,Arquitetura de Computadores
+1,Engenharia de Computação,Redes de Computadores
+2,Administração,Gestão de Pessoas
+2,Administração,Marketing
+2,Administração,Finanças Corporativas
+2,Administração,Empreendedorismo
+2,Administração,Estatística
+3,Direito,Direito Civil
+3,Direito,Direito Penal
+3,Direito,Direito Constitucional
+3,Direito,Teoria do Estado
+3,Direito,Direito Administrativo
+4,Medicina,Anatomia Humana
+4,Medicina,Fisiologia
+4,Medicina,Farmacologia
+4,Medicina,Patologia
+4,Medicina,Clínica Médica
+5,Psicologia,Teorias Psicológicas
+5,Psicologia,Psicologia do Desenvolvimento
+5,Psicologia,Psicopatologia
+5,Psicologia,Psicologia Social
+5,Psicologia,Neuropsicologia
+6,Engenharia Civil,Mecânica dos Solos
+6,Engenharia Civil,Estruturas de Concreto
+6,Engenharia Civil,Topografia
+6,Engenharia Civil,Hidráulica
+6,Engenharia Civil,Materiais de Construção
+7,Ciências Contábeis,Contabilidade Geral
+7,Ciências Contábeis,Auditoria
+7,Ciências Contábeis,Contabilidade de Custos
+7,Ciências Contábeis,Legislação Tributária
+7,Ciências Contábeis,Controladoria
+8,Arquitetura e Urbanismo,Projeto Arquitetônico
+8,Arquitetura e Urbanismo,Desenho Técnico
+8,Arquitetura e Urbanismo,Conforto Ambiental
+8,Arquitetura e Urbanismo,História da Arquitetura
+8,Arquitetura e Urbanismo,Urbanismo
+9,Enfermagem,Fundamentos da Enfermagem
+9,Enfermagem,Saúde Coletiva
+9,Enfermagem,Enfermagem Médico-Cirúrgica
+9,Enfermagem,Pediatria
+9,Enfermagem,Ginecologia e Obstetrícia
+10,Publicidade e Propaganda,Redação Publicitária
+10,Publicidade e Propaganda,Mídia e Planejamento
+10,Publicidade e Propaganda,Criação Publicitária
+10,Publicidade e Propaganda,Comportamento do Consumidor
+10,Publicidade e Propaganda,Design Gráfico

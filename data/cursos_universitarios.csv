@@ -1,4 +1,4 @@
-curso_id,nome_curso,nota_curso
+id_curso,nome_curso,nota_curso
 1,Engenharia de Computação,4.5
 2,Administração,3.8
 3,Direito,4.2
